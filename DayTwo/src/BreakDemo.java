@@ -7,7 +7,7 @@ public class BreakDemo {
 		{
 			if(i<7)
 				//break;//will break the current iteration and all the upcoming iterations
-				continue;//will skip the current iteration alone
+				////continue;//will skip the current iteration alone
 			    System.out.println(i);
 		}
 

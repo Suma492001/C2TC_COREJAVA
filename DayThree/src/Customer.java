@@ -7,13 +7,13 @@ public class Customer {
 	
 	void display() {
 	}
-	void show() {
+	//void show() {
 	
-	}
+	//}
 	
-	int show() {
+	//int show() {
 		
-	}
+	//}
 	
 	//User Defined constructor -no argument
 	Customer(){
